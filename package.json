@@ -1,0 +1,22 @@
+{
+  "name": "webrtc-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wocoburguesa/webrtc-demo.git"
+  },
+  "author": "wocoburguesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wocoburguesa/webrtc-demo/issues"
+  },
+  "homepage": "https://github.com/wocoburguesa/webrtc-demo#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
